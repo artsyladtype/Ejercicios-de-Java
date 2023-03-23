@@ -31,9 +31,11 @@ public class Día6Extra10 {
         num1=(int) (Math.random()*10);
         num2=(int) (Math.random()*10);
         producto=num1*num2;
-        /*System.out.println(num1);
-        System.out.println(num2);*/
+        System.out.println(num1);
+        System.out.println(num2);
         
+        
+        ///MMMMMM DIJO LA MUDA
         do{
             if (cont==0){
             System.out.println("Adivine el resultado de una multiplicación entre "
